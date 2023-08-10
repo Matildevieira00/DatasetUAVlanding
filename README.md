@@ -5,6 +5,7 @@ Author: ASPOF EN-AEL Correia Vieira
 Date: 10 August 2023
 
 ///////////////////////////////////////////////////////////////////////
+
 This dataset was prepared within the scope of the Dissertation for obtaining the Master's Degree in Naval Military Sciences, in the speciality of Naval Engineering.
 
 The final dataset is composed in general of three datasets of different scenarios: data acquisition 1 carried out Escola Prática de Infantaria, data acquisition 2 carried out on board the frigate and data acquisition 3 carried out at Base Aérea nº1.
