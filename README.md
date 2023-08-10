@@ -13,4 +13,4 @@ The final dataset is composed in general of three datasets of different scenario
 
 The dataset available is composed of about 107 000 images, of which 20 000 images annotated through bounding boxes. A checklist of procedures for each different scenario, the parameters measured in each trial, the settings of both cameras and the telemetry of each UAV present are also available.
 
-![image](https://github.com/Matildevieira00/DatasetUAVlanding/assets/126574233/035fbf75-b69c-4f68-98a9-a93b0037617c)
+![image](https://github.com/Matildevieira00/DatasetUAVlanding/assets/126574233/c7c2db76-c73c-4ee7-a84a-ae200acb616d)
